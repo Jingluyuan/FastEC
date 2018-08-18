@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Statistic">
+    <option name="excludedDirectories">
+      <list>
+        <option value="$PROJECT_DIR$/example/build" />
+        <option value="$PROJECT_DIR$/example/src/androidTest" />
+        <option value="$PROJECT_DIR$/example/src/test" />
+        <option value="$PROJECT_DIR$/latte-annotations/build" />
+        <option value="$PROJECT_DIR$/latte-core/build" />
+        <option value="$PROJECT_DIR$/latte-core/src/androidTest" />
+        <option value="$PROJECT_DIR$/latte-core/src/test" />
+        <option value="$PROJECT_DIR$/latte-ec/src/androidTest" />
+        <option value="$PROJECT_DIR$/latte-ec/src/test" />
+        <option value="$PROJECT_DIR$/build" />
+        <option value="$PROJECT_DIR$/latte-ec/libs" />
+      </list>
+    </option>
+  </component>
+</project>
